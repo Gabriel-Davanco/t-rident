@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @t-rident
+- 👋 Hi, I’m @Gabriel Davanço
 - 👀 I’m interested in game developing
-- 🌱 I’m currently learning the basics of programming
-- 💞️ I’m looking to collaborate on game develop
-- 📫 How to reach me by this account
+- 🌱 I’m currently learning the areas of computing
+- 💞️ I love involving myself with programming projects
+- 📫 You can reach me using this email: gabrieldebastiani4@gmail.com
 
 <!---
 t-rident/t-rident is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
